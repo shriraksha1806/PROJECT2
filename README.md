@@ -13,6 +13,39 @@ This project demonstrates an AI-powered automation workflow built using n8n. The
 The project showcases AI workflow automation, API integration, and low-code development using n8n.
 
 
+ 🚀 Live AI Agent
+
+
+
+&#x20;AI-Powered JIRA Ticket Creator
+
+
+
+This AI Agent helps users create JIRA tickets using natural language.
+
+
+
+Features
+
+
+
+\* Creates JIRA stories, tasks, and bugs
+
+\* Generates clear summaries and detailed descriptions
+
+\* Automatically raises JIRA tickets
+
+\* Built using n8n Cloud and AI
+
+
+
+Live Demo
+
+
+
+https://shritester.app.n8n.cloud/webhook/19cf3f4c-7960-48cf-935d-be29f3d47fa9/chat
+
+
 
 
 
